@@ -6,7 +6,7 @@ Conbat AB builds energy storage from batteries out of electric and hybrid cars, 
 
 ## What we build
 
-| | |
+| Part | What it is |
 |---|---|
 | **Energy storage** | Containerised battery storage with second-life cells from electric and hybrid cars, or new LFP cells rated 6 000+ cycles. Insulated enclosure with a heat pump that keeps the cells at 15–25 °C. |
 | **Circuit boards** | Every board in the system is designed in-house. |
@@ -16,11 +16,11 @@ Conbat AB builds energy storage from batteries out of electric and hybrid cars, 
 
 ## Facts you can check
 
-| | |
-|---|---|
-| **Grid services** | Approved by Svenska kraftnät for FCR-D in 2024 and FCR-N in 2026 |
-| **Company** | Conbat AB, org.nr 559552-4991, founded 2020 |
-| **Office** | Skogstorp 405, 311 91 Falkenberg, Sweden |
+| Fact | Detail | Where to check it |
+|---|---|---|
+| **Grid services** | Approved for FCR-D in 2024 and FCR-N in 2026 | Svenska kraftnät |
+| **Company** | Conbat AB, org.nr 559552-4991, founded 2020 | Bolagsverket |
+| **Office** | Skogstorp 405, 311 91 Falkenberg, Sweden | Bolagsverket |
 
 ## Code
 
